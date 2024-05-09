@@ -1,0 +1,31 @@
+body, h1, h2, p, a {
+    margin: 0;
+    padding: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+  nav, h2 {
+    margin: 0;
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  @media (max-width: 1200px) {
+   
+  }
+  
+  @media (max-width: 992px) {
+    
+  }
+  
+  
+  @media (max-width: 576px) {
+   
+    }
+  
+  
+ 
